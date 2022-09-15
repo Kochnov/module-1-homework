@@ -7,7 +7,7 @@
 
 * The company was incorporated back in 2011 as Social Finance Inc and it was offering student loan refinancing. SoFi went public through a SPAC (special purpose acusion company) merger in 2021 and changed its name to SoFi Technologies in May 2021.
 
-* Mike Cagney, Dan Macklin, James Finniganand Ian BradyWho are the founders of the company.
+* Mike Cagney, Dan Macklin, James Finniganand Ian Brady are the founders of the company.
 
 * The idea of the company is to could provide more affordable options for those taking on debt to fund their education. The company's inaugural loan program was a pilot at Stanford.
 
